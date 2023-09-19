@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    background: linear-gradient(90deg,#2d2d2d,pink);
+    font-size: 18px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.wrapper {
+    width: 300px;
+    margin: 0 auto;
+}
+input {
+    width: 280px;
+    height: 30px;
+    padding-left: 3px;
+    outline: none;
+    margin-bottom: 10px;
+}
+.temlateDiv {
+    margin-bottom: 5px;
+    border-bottom: 1px solid #2d2d2d;
+    max-width: 300px;
+    overflow-x: hidden;
+}
+.text {
+    color: rgba(153, 41, 41, 0.507);
+    font-family: monospace;
+}
